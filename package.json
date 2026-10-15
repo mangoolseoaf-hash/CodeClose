@@ -1,0 +1,10 @@
+{
+  "name": "codeclose",
+  "productName": "CodeClose",
+  "version": "1.0.0",
+  "description": "CodeClose by xL1F3 Software - convierte proyectos Python en ejecutables cerrados",
+  "author": "xL1F3 Software",
+  "main": "main.js",
+  "scripts": { "start": "electron ." },
+  "devDependencies": { "electron": "^33.0.0" }
+}
