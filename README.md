@@ -1,3 +1,5 @@
+⚠️⚠️⚠️**IMPORTANTE DESCARGAR EL PROYECTO DESDE RELEASES**⚠️⚠️⚠️-- ➡️ https://github.com/mangoolseoaf-hash/CodeClose/releases
+
 <div align="center">
 
 # 🔒 CodeClose
